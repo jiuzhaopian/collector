@@ -1,0 +1,114 @@
+{
+  "evidence": "live_browser_dom",
+  "observed_on": "2026-10-16",
+  "note": "25 target-city ZIP links read from the live user Edge tab. This is one announcement only, not 2022-2026 completeness. Browser DOM observation metadata; not original HTTP HTML.",
+  "announcements": [
+    {
+      "url": "https://www.celma.org.cn/fxqgg/70584.jhtml",
+      "title": "2026年广东省2026年第十一批新增专项债券发行公开",
+      "published_date": "2026-09-24",
+      "attachments": [
+        {
+          "name": "2026年广东省政府专项债券（四十二期）-05佛山.zip",
+          "url": "https://www.governbond.org.cn/uploadFiles/44/attachFiles/202609/9def1302-ccda-4133-99c6-24701340ce52.zip"
+        },
+        {
+          "name": "2026年广东省政府专项债券（四十期）-03珠海.zip",
+          "url": "https://www.governbond.org.cn/uploadFiles/44/attachFiles/202609/494be2a5-b6b5-4687-9aa4-3eab6dc45914.zip"
+        },
+        {
+          "name": "2026年广东省政府专项债券（四十期）-09惠州.zip",
+          "url": "https://www.governbond.org.cn/uploadFiles/44/attachFiles/202609/b9a6988d-e80c-48c1-ac98-440975bf0ab9.zip"
+        },
+        {
+          "name": "2026年广东省政府专项债券（四十期）-11东莞1.zip",
+          "url": "https://www.governbond.org.cn/uploadFiles/44/attachFiles/202609/882564c4-4c77-48c0-a22d-9adc55d4e736.zip"
+        },
+        {
+          "name": "2026年广东省政府专项债券（四十期）-11东莞4.zip",
+          "url": "https://www.governbond.org.cn/uploadFiles/44/attachFiles/202609/6f1e17ca-2c17-4533-bbd8-5e865541cb0e.zip"
+        },
+        {
+          "name": "2026年广东省政府专项债券（四十期）-11东莞2.zip",
+          "url": "https://www.governbond.org.cn/uploadFiles/44/attachFiles/202609/6e878d0b-2776-4e20-b0f5-50cb7e9cfe6d.zip"
+        },
+        {
+          "name": "2026年广东省政府专项债券（四十期）-12中山.zip",
+          "url": "https://www.governbond.org.cn/uploadFiles/44/attachFiles/202609/089bfe4e-8ec7-4635-840e-70d608517cb0.zip"
+        },
+        {
+          "name": "2026年广东省政府专项债券（四十期）-13江门.zip",
+          "url": "https://www.governbond.org.cn/uploadFiles/44/attachFiles/202609/a59a6a45-d289-49ce-8fba-96bb86b8db33.zip"
+        },
+        {
+          "name": "2026年广东省政府专项债券（四十期）-11东莞3.zip",
+          "url": "https://www.governbond.org.cn/uploadFiles/44/attachFiles/202609/dece4140-5c5f-4621-a905-bc5cdd1a4bc8.zip"
+        },
+        {
+          "name": "2026年广东省政府专项债券（四十期）-17肇庆.zip",
+          "url": "https://www.governbond.org.cn/uploadFiles/44/attachFiles/202609/afd09593-cc39-4536-8b76-fe10103fc47d.zip"
+        },
+        {
+          "name": "2026年广东省政府专项债券（四十三期）-03珠海.zip",
+          "url": "https://www.governbond.org.cn/uploadFiles/44/attachFiles/202609/392a53c0-921c-4122-bfba-e8fca7340631.zip"
+        },
+        {
+          "name": "2026年广东省政府专项债券（四十三期）-05佛山.zip",
+          "url": "https://www.governbond.org.cn/uploadFiles/44/attachFiles/202609/7474db23-122e-4fef-9823-727331051881.zip"
+        },
+        {
+          "name": "2026年广东省政府专项债券（四十三期）-09惠州.zip",
+          "url": "https://www.governbond.org.cn/uploadFiles/44/attachFiles/202609/9282ffde-cd84-42ec-adc5-22ee96dd94ff.zip"
+        },
+        {
+          "name": "2026年广东省政府专项债券（四十三期）-13江门.zip",
+          "url": "https://www.governbond.org.cn/uploadFiles/44/attachFiles/202609/8c79c5e3-3d96-44e8-83f2-7fce2d46f51e.zip"
+        },
+        {
+          "name": "2026年广东省政府专项债券（四十三期）-12中山.zip",
+          "url": "https://www.governbond.org.cn/uploadFiles/44/attachFiles/202609/4afc8bb5-3081-495b-8e83-1f58074b1068.zip"
+        },
+        {
+          "name": "2026年广东省政府专项债券（四十三期）-11东莞.zip",
+          "url": "https://www.governbond.org.cn/uploadFiles/44/attachFiles/202609/710f34bd-6461-463c-afd2-6518c17f0bdc.zip"
+        },
+        {
+          "name": "2026年广东省政府专项债券（四十三期）-17肇庆.zip",
+          "url": "https://www.governbond.org.cn/uploadFiles/44/attachFiles/202609/c45d7293-bd17-447b-b187-1345848a1de7.zip"
+        },
+        {
+          "name": "2026年广东省政府专项债券（四十一期）-05佛山.zip",
+          "url": "https://www.governbond.org.cn/uploadFiles/44/attachFiles/202609/84e4cd8b-c7d1-47e9-b41e-7b12a197810c.zip"
+        },
+        {
+          "name": "2026年广东省政府专项债券（四十一期）-03珠海.zip",
+          "url": "https://www.governbond.org.cn/uploadFiles/44/attachFiles/202609/14bbca35-2267-4e1e-9a48-b29f72682739.zip"
+        },
+        {
+          "name": "2026年广东省政府专项债券（四十一期）-09惠州.zip",
+          "url": "https://www.governbond.org.cn/uploadFiles/44/attachFiles/202609/aa755428-6f30-4957-b079-dd3a3157d842.zip"
+        },
+        {
+          "name": "2026年广东省政府专项债券（四十一期）-11东莞2.zip",
+          "url": "https://www.governbond.org.cn/uploadFiles/44/attachFiles/202609/a70eee56-a9bd-4191-afdf-2b61d19a9160.zip"
+        },
+        {
+          "name": "2026年广东省政府专项债券（四十一期）-11东莞1.zip",
+          "url": "https://www.governbond.org.cn/uploadFiles/44/attachFiles/202609/d13fd43f-cda7-49cc-8530-ae214ae12a95.zip"
+        },
+        {
+          "name": "2026年广东省政府专项债券（四十一期）-12中山.zip",
+          "url": "https://www.governbond.org.cn/uploadFiles/44/attachFiles/202609/ce881702-84cb-4afd-a0ed-4cea6671d9eb.zip"
+        },
+        {
+          "name": "2026年广东省政府专项债券（四十一期）-13江门.zip",
+          "url": "https://www.governbond.org.cn/uploadFiles/44/attachFiles/202609/48bf513b-b57a-4900-9bc8-c89619c9b1ab.zip"
+        },
+        {
+          "name": "2026年广东省政府专项债券（四十一期）-17肇庆.zip",
+          "url": "https://www.governbond.org.cn/uploadFiles/44/attachFiles/202609/8dc091f7-a929-4d8b-9165-16081695eb18.zip"
+        }
+      ]
+    }
+  ]
+}
